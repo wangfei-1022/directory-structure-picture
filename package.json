@@ -1,0 +1,18 @@
+{
+  "name": "directory-structure-pictrue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin":{
+    "struc": "./bin/dir"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "directory-tree": "^2.0.0",
+    "markdown-magic": "^0.1.18"
+  }
+}
