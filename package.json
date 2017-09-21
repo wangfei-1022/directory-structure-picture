@@ -1,6 +1,6 @@
 {
   "name": "directory-structure-pictrue",
-  "version": "1.0.1",
+  "version": "1.0.6",
   "description": "",
   "main": "index.js",
   "bin":{
@@ -14,5 +14,9 @@
   "devDependencies": {
     "directory-tree": "^2.0.0",
     "markdown-magic": "^0.1.18"
+  },
+  "repository" : { 
+    "type" : "git", 
+    "url" : "http://github.com/whyfind/directory-structure-picture"
   }
 }

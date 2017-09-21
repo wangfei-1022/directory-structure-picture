@@ -1,25 +1,22 @@
-### 输出当前目录的结构图
+# 
+Creates a map pictrue about directory structrue.
+输出当前目录的结构图
 
-### 安装
+## Install
 
+```bash
+npm install -g directory-structrue-pictrue
 ```
 
-npm install directory-structrue-pictrue -g
-
-```
-
-### 使用
-
-```
-
+## Usage
+```bash
 $ struc
-
 ```
 就能看到控制台输出
 
-输出效果
+## Result
 <!-- AUTO-GENERATED-CONTENT:START (DIRTREE:dir=./&depth=1) -->
-```
+```bash
 directory-structure-picture/
 ├── bin/
 │   └── dir
