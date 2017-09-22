@@ -1,10 +1,10 @@
 {
   "name": "directory-structure-pictrue",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "",
   "main": "index.js",
   "bin":{
-    "struc": "./bin/dir"
+    "create-pic": "./bin/dir"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
